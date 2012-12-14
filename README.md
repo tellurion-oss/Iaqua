@@ -11,4 +11,4 @@ Telecom Services for customers e.g. the Home Internet Service.
 Thus, IT systems need models or software representation of these real life Resources and Services. 
 
 Iaqua is a Practitioner's approach to modelling Resources and Services in cloud based Telecom. It includes a tutorial
-and a adequate implementation of the approach using JAX-WS SOA and J2EE.
+and a adequate implementation of the approach using JAX-WS SOA and J2EE. Iaqua is a FREE offering from OSSnext(TM)
